@@ -8,4 +8,15 @@ let drawTreeMap = () => {
 
 }
 
+d3.json(movieDataURL)
+  .then((data,error)=>{
+    if(error){
+        console.log(error);
+    }
+    else{
+        movieData = data;
+        console.log(movieData);
+        drawTreeMap();
+    }
+  })
 
