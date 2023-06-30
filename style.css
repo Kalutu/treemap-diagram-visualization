@@ -1,1 +1,19 @@
+html, body {
+    min-height: 100%;
+}
 
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+svg {
+    background-color: whitesmoke;
+}
+
+#canvas {
+    min-width: 100px;
+    min-height: 600px
+}
