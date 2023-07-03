@@ -19,11 +19,19 @@ This is a D3.js script that generates a tree map visualization based on movie da
 
 Feel free to modify the code according to your specific needs.
 
-## Example
-For an example implementation of the D3.js tree map visualization, refer to the following codepen: [D3.js Tree Map Visualization Example](https://codepen.io/example-tree-map-visualization)
+## Contributing
+Contributions to the calculator application are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## Credits
+This Tree Map Visualization project is part of the [FreeCodeCamp Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/) course. It was completed as one of the required projects in the curriculum.
 
-This code is adapted from the FreeCodeCamp Data Visualization Certification project "Visualize Data with a Treemap Diagram".
-.
+FreeCodeCamp (FCC) is a nonprofit organization that offers a comprehensive curriculum for learning web development and data visualization. The Data Visualization Certification focuses on teaching students how to effectively represent and analyze data through visualizations.
+
+The course covers various data visualization techniques and libraries such as D3.js, Chart.js, and React. Students learn how to create different types of visualizations including bar charts, scatter plots, heatmaps, treemaps, and more.
+
+Completing projects like the Tree Map Visualization project helps solidify your understanding of data visualization concepts and provides hands-on experience in creating interactive visualizations. It's an excellent way to showcase your skills and knowledge in this field.
+
+To learn more about FreeCodeCamp and explore their educational programs, visit their official website: [https://www.freecodecamp.org/](https://www.freecodecamp.org/). They offer a wide range of resources and a supportive community to assist you in your journey to becoming a proficient data visualizer.
+
+
 
