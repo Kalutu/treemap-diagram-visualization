@@ -1,6 +1,9 @@
 # Tree Map Visualization
 This is a D3.js script that generates a tree map visualization based on movie data. It retrieves movie data from a JSON file and renders the tree map using D3.js's treemap layout.
 
+## Preview
+![Treemap Preview](img/treemap.jpg)
+
 ## Dependencies
 - D3.js library
 
